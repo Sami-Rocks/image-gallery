@@ -1,7 +1,7 @@
 # This project is written in React
 
 ## Project Structure
-`
+
   src/
     assets/styles
        _colors.scss
@@ -21,7 +21,6 @@
     constants/
       images.ts -------------(cotains image list array)
     index.tsx
-`
 
 
 ## To run the project

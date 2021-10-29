@@ -3,6 +3,7 @@
 ## Project Structure
 
   src/
+  
     assets/styles
        _colors.scss
        main.scss

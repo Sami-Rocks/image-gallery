@@ -18,7 +18,7 @@
         index.tsx
         style.scss
     types/
-      global.d.ts -----------------(conatins global typings)
+      global.d.ts -----------------(conatins global types)
     constants/
       images.ts -------------(cotains image list array)
     index.tsx
